@@ -1,0 +1,39 @@
+C:\Users\Logan\Documents\Visual Studio 2015\Projects\C968ProjectWindowsForms\C968ProjectWindowsForms\bin\Debug\C968ProjectWindowsForms.exe.config
+C:\Users\Logan\Documents\Visual Studio 2015\Projects\C968ProjectWindowsForms\C968ProjectWindowsForms\bin\Debug\C968ProjectWindowsForms.exe
+C:\Users\Logan\Documents\Visual Studio 2015\Projects\C968ProjectWindowsForms\C968ProjectWindowsForms\bin\Debug\C968ProjectWindowsForms.pdb
+C:\Users\Logan\Documents\Visual Studio 2015\Projects\C968ProjectWindowsForms\C968ProjectWindowsForms\obj\Debug\C968Project.csprojResolveAssemblyReference.cache
+C:\Users\Logan\Documents\Visual Studio 2015\Projects\C968ProjectWindowsForms\C968ProjectWindowsForms\obj\Debug\C968ProjectWindowsForms.AddPartForm.resources
+C:\Users\Logan\Documents\Visual Studio 2015\Projects\C968ProjectWindowsForms\C968ProjectWindowsForms\obj\Debug\C968ProjectWindowsForms.MainScreenForm.resources
+C:\Users\Logan\Documents\Visual Studio 2015\Projects\C968ProjectWindowsForms\C968ProjectWindowsForms\obj\Debug\C968ProjectWindowsForms.Properties.Resources.resources
+C:\Users\Logan\Documents\Visual Studio 2015\Projects\C968ProjectWindowsForms\C968ProjectWindowsForms\obj\Debug\C968Project.csproj.GenerateResource.Cache
+C:\Users\Logan\Documents\Visual Studio 2015\Projects\C968ProjectWindowsForms\C968ProjectWindowsForms\obj\Debug\C968ProjectWindowsForms.exe
+C:\Users\Logan\Documents\Visual Studio 2015\Projects\C968ProjectWindowsForms\C968ProjectWindowsForms\obj\Debug\C968ProjectWindowsForms.pdb
+C:\Users\Logan\Documents\Visual Studio 2015\Projects\C968ProjectWindowsForms\C968ProjectWindowsForms\obj\Debug\C968ProjectWindowsForms.AddProduct.resources
+C:\Users\Logan\Documents\Visual Studio 2015\Projects\C968ProjectWindowsForms\C968ProjectWindowsForms\obj\Debug\C968ProjectWindowsForms.ModifyPart.resources
+C:\Users\Logan\Documents\Visual Studio 2015\Projects\C968ProjectWindowsForms\C968ProjectWindowsForms\obj\Debug\C968ProjectWindowsForms.ModifyProduct.resources
+C:\Users\lbroad\Documents\Visual Studio 2019\Project revised C968\C968ProjectWindowsFormsUPDATED2202020\C968ProjectWindowsForms\C968ProjectWindowsForms\bin\Debug\C968ProjectWindowsForms.exe.config
+C:\Users\lbroad\Documents\Visual Studio 2019\Project revised C968\C968ProjectWindowsFormsUPDATED2202020\C968ProjectWindowsForms\C968ProjectWindowsForms\bin\Debug\C968ProjectWindowsForms.exe
+C:\Users\lbroad\Documents\Visual Studio 2019\Project revised C968\C968ProjectWindowsFormsUPDATED2202020\C968ProjectWindowsForms\C968ProjectWindowsForms\bin\Debug\C968ProjectWindowsForms.pdb
+C:\Users\lbroad\Documents\Visual Studio 2019\Project revised C968\C968ProjectWindowsFormsUPDATED2202020\C968ProjectWindowsForms\C968ProjectWindowsForms\obj\Debug\C968Project.csprojAssemblyReference.cache
+C:\Users\lbroad\Documents\Visual Studio 2019\Project revised C968\C968ProjectWindowsFormsUPDATED2202020\C968ProjectWindowsForms\C968ProjectWindowsForms\obj\Debug\C968ProjectWindowsForms.AddPartForm.resources
+C:\Users\lbroad\Documents\Visual Studio 2019\Project revised C968\C968ProjectWindowsFormsUPDATED2202020\C968ProjectWindowsForms\C968ProjectWindowsForms\obj\Debug\C968ProjectWindowsForms.AddProduct.resources
+C:\Users\lbroad\Documents\Visual Studio 2019\Project revised C968\C968ProjectWindowsFormsUPDATED2202020\C968ProjectWindowsForms\C968ProjectWindowsForms\obj\Debug\C968ProjectWindowsForms.MainScreenForm.resources
+C:\Users\lbroad\Documents\Visual Studio 2019\Project revised C968\C968ProjectWindowsFormsUPDATED2202020\C968ProjectWindowsForms\C968ProjectWindowsForms\obj\Debug\C968ProjectWindowsForms.ModifyPart.resources
+C:\Users\lbroad\Documents\Visual Studio 2019\Project revised C968\C968ProjectWindowsFormsUPDATED2202020\C968ProjectWindowsForms\C968ProjectWindowsForms\obj\Debug\C968ProjectWindowsForms.ModifyProduct.resources
+C:\Users\lbroad\Documents\Visual Studio 2019\Project revised C968\C968ProjectWindowsFormsUPDATED2202020\C968ProjectWindowsForms\C968ProjectWindowsForms\obj\Debug\C968ProjectWindowsForms.Properties.Resources.resources
+C:\Users\lbroad\Documents\Visual Studio 2019\Project revised C968\C968ProjectWindowsFormsUPDATED2202020\C968ProjectWindowsForms\C968ProjectWindowsForms\obj\Debug\C968Project.csproj.GenerateResource.cache
+C:\Users\lbroad\Documents\Visual Studio 2019\Project revised C968\C968ProjectWindowsFormsUPDATED2202020\C968ProjectWindowsForms\C968ProjectWindowsForms\obj\Debug\C968ProjectWindowsForms.exe
+C:\Users\lbroad\Documents\Visual Studio 2019\Project revised C968\C968ProjectWindowsFormsUPDATED2202020\C968ProjectWindowsForms\C968ProjectWindowsForms\obj\Debug\C968ProjectWindowsForms.pdb
+C:\Users\Logan\Documents\Project S1 Re-worked\C968ProjectWindowsFormsUPDATED2212020\C968ProjectWindowsForms\C968ProjectWindowsForms\bin\Debug\C968ProjectWindowsForms.exe.config
+C:\Users\Logan\Documents\Project S1 Re-worked\C968ProjectWindowsFormsUPDATED2212020\C968ProjectWindowsForms\C968ProjectWindowsForms\obj\Debug\C968ProjectWindowsForms.exe
+C:\Users\Logan\Documents\Project S1 Re-worked\C968ProjectWindowsFormsUPDATED2212020\C968ProjectWindowsForms\C968ProjectWindowsForms\obj\Debug\C968ProjectWindowsForms.pdb
+C:\Users\Logan\Documents\Project S1 Re-worked\C968ProjectWindowsFormsUPDATED2212020\C968ProjectWindowsForms\C968ProjectWindowsForms\bin\Debug\C968ProjectWindowsForms.exe
+C:\Users\Logan\Documents\Project S1 Re-worked\C968ProjectWindowsFormsUPDATED2212020\C968ProjectWindowsForms\C968ProjectWindowsForms\bin\Debug\C968ProjectWindowsForms.pdb
+C:\Users\Logan\Documents\Project S1 Re-worked\C968ProjectWindowsFormsUPDATED2212020\C968ProjectWindowsForms\C968ProjectWindowsForms\obj\Debug\C968Project.csprojResolveAssemblyReference.cache
+C:\Users\Logan\Documents\Project S1 Re-worked\C968ProjectWindowsFormsUPDATED2212020\C968ProjectWindowsForms\C968ProjectWindowsForms\obj\Debug\C968ProjectWindowsForms.AddPartForm.resources
+C:\Users\Logan\Documents\Project S1 Re-worked\C968ProjectWindowsFormsUPDATED2212020\C968ProjectWindowsForms\C968ProjectWindowsForms\obj\Debug\C968ProjectWindowsForms.AddProduct.resources
+C:\Users\Logan\Documents\Project S1 Re-worked\C968ProjectWindowsFormsUPDATED2212020\C968ProjectWindowsForms\C968ProjectWindowsForms\obj\Debug\C968ProjectWindowsForms.MainScreenForm.resources
+C:\Users\Logan\Documents\Project S1 Re-worked\C968ProjectWindowsFormsUPDATED2212020\C968ProjectWindowsForms\C968ProjectWindowsForms\obj\Debug\C968ProjectWindowsForms.ModifyPart.resources
+C:\Users\Logan\Documents\Project S1 Re-worked\C968ProjectWindowsFormsUPDATED2212020\C968ProjectWindowsForms\C968ProjectWindowsForms\obj\Debug\C968ProjectWindowsForms.ModifyProduct.resources
+C:\Users\Logan\Documents\Project S1 Re-worked\C968ProjectWindowsFormsUPDATED2212020\C968ProjectWindowsForms\C968ProjectWindowsForms\obj\Debug\C968ProjectWindowsForms.Properties.Resources.resources
+C:\Users\Logan\Documents\Project S1 Re-worked\C968ProjectWindowsFormsUPDATED2212020\C968ProjectWindowsForms\C968ProjectWindowsForms\obj\Debug\C968Project.csproj.GenerateResource.Cache
